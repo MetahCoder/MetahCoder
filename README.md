@@ -1,12 +1,14 @@
-### Hello World 👋
+### Hey there 👋
 
-My name is Askar, I am a 15 y.o. iOS developer from Atyrau, Kazakhstan 🇰🇿. 
+My name is Askar. 
 
-• 📱 I’m currently working on the iOS application of the https://degreen.kz food delivery service. 
+• 📍 I am a 15 y.o. iOS developer from Atyrau, Kazakhstan 🇰🇿.
 
-• 👨🏻‍💻 I’m the founder of "Qulynym" - an educational platform for preschoolers in Kazakhstan
+• 👨🏻‍💻 I’m the founder of "Qulynym" - an educational platform for preschoolers in Kazakhstan. 
 
 • 🏆 I am a WWDC20 Swift Student Challenge winner
+
+• 📱 I’m currently working on the iOS application of the https://degreen.kz food delivery service. 
 
 • 📫 How to reach me: metahdev@gmail.com 
 
