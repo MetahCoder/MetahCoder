@@ -10,6 +10,8 @@ My name is Askar.
 
 • 📱 I’m currently working on the iOS application of the https://degreen.kz food delivery service
 
+• 🤖 I’m also currently exploring AI development at the Stanford-PCS course.
+
 • 📫 How to reach me: metahdev@gmail.com 
 
 
