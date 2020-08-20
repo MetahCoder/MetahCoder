@@ -1,14 +1,14 @@
 ### Hey there 👋
 
-My name is Askar. 
+My name is Askar. I am: 
 
-• 👨🏻‍💻 I’m the founder of "Qulynym" - an educational platform for preschoolers in Kazakhstan
+• 👨🏻‍💻 the founder of "Qulynym" - an educational platform for preschoolers in Kazakhstan
 
-• 🏆 I am a WWDC20 Swift Student Challenge winner
+• 🏆 a WWDC20 Swift Student Challenge winner
 
-• 📱 I’m currently working on the iOS application of the https://degreen.kz food delivery service
+• 📱 currently working on the iOS application of the https://degreen.kz food delivery service
 
-• 🤖 I’m also currently exploring AI development at the Stanford-PCS course
+• 🤖 finished the AI development course at the Stanford-PCS 
 
 • 📫 How to reach me: metahdev@gmail.com 
 
