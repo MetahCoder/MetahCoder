@@ -6,7 +6,7 @@ My name is Askar. I am:
 
 • 🏆 a WWDC20 Swift Student Challenge winner
 
-• 📱 currently working on the iOS application of the https://degreen.kz food delivery service
+• 📱 currently working on the iOS application of the [Degreen](https://degreen.kz) food delivery service
 
 • 🤖 finished the AI development course at the Stanford-PCS 
 
