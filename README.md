@@ -1,4 +1,4 @@
-### 🇰🇿 S'alem a'lem 👋 
+### 🇰🇿 Salem alem 👋 
 
 My name is Askar. I am: 
 
