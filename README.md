@@ -10,7 +10,7 @@ My name is Askar. I am:
 
 • 🤖 finished the AI development course at the [Stanford-PCS](https://spcs.stanford.edu)
 
-• 📫 How to reach me: metahdev@gmail.com || @metahdev(Instagram, Twitter, Telegram)
+• 📫 How to reach me: metahdev@gmail.com || @metahdev(LinkedIn, Telegram, Instagram, Twitter)
 
 
 <!--
