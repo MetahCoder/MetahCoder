@@ -2,9 +2,11 @@
 
 My name is Askar. I am: 
 
-• 👨🏻‍💻 the founder of "Qulynym" - an educational platform for preschoolers in Kazakhstan
+• 📠 the author of the [iosdev.kz](https://iosdev.kz) blog(Instagram, Medium)
 
 • 🏆 a WWDC20 Swift Student Challenge winner
+
+• 👨🏻‍💻 the founder of "Qulynym" - an educational platform for preschoolers in Kazakhstan
 
 • 📱 currently working on my personal projects and improving development skills 
 
