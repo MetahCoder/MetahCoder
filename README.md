@@ -6,7 +6,7 @@ My name is Askar. I am:
 
 • 🏆 a WWDC20 Swift Student Challenge winner
 
-• 👨🏻‍💻 the founder of "Qulynym" - an educational platform for preschoolers in Kazakh 
+• 👨🏻‍💻 the founder of [Qulynym](https://apps.apple.com/ru/app/qulynym/id1535210352) - an educational platform for preschoolers in Kazakh 
 
 • 🤖 finished the AI development course at the [Stanford-PCS](https://spcs.stanford.edu)
 
