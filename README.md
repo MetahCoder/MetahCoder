@@ -4,7 +4,7 @@ My name is Askar. I am:
 
 • 📠 the author of the [iosdev.kz](https://iosdev.kz) blog([Instagram](https://instagram.com/iosdev.kz), [Medium](https://iosdev-kz.medium.com))
 
-• 🏆 a WWDC20 Swift Student Challenge winner
+• 🏆 an  WWDC20 Swift Student Challenge winner
 
 • 👨🏻‍💻 the founder of [Qulynym](https://apps.apple.com/ru/app/qulynym/id1535210352) - an educational platform for preschoolers in Kazakh 
 
