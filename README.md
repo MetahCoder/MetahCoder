@@ -12,6 +12,7 @@ My name is Askar. I am:
 
 • 📫 How to reach me: metahdev@gmail.com || @metahdev(LinkedIn, Telegram, Twitter, Clubhouse)
 
+[![metahdev's GitHub stats](https://github-readme-stats.vercel.app/api?username=metahdev)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **MetahCoder/MetahCoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
